@@ -1,0 +1,28 @@
+{
+    "camera_intrinsic": {
+        "fx": 3406.175114,
+        "cx": 1080.429855,
+        "fy": 3423.223242,
+        "cy": 785.284572,
+        "image_width": 2064,
+        "image_height": 1544
+    },
+    "camera_extrinsic": {
+        "camera_height": 1.28,
+        "camera_pitch": 0,
+        "camera_yaw": 0,
+        "camera_roll": 0
+    },
+    "gps_to_camera_offset_body": {
+        "forward": 2.0,
+        "left": 0.15,
+        "up": -0.1
+    },
+    "earth_constants": {
+        "radius": 6371000.0
+    },
+    "calibration_info": {
+        "date": "07/30/2025",
+        "notes": "New calibration parameters for camera_intrinsic parameters."
+    }
+}

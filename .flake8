@@ -1,0 +1,3 @@
+[flake8]
+ignore = E261, E402, E501, W293, W504
+exclude = .git, .venv, build, cmake-build-*, **/temp/, *results/

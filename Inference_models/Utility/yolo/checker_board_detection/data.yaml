@@ -1,0 +1,5 @@
+path: ./temp/split_data
+train: images/train
+val: images/test
+names: ["checkered_box"]
+nc: 1

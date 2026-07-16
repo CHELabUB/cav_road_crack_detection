@@ -1,0 +1,15 @@
+torch
+torchvision
+numpy
+tqdm
+ml-collections
+medpy
+scipy
+h5py
+opencv-python
+einops
+timm
+yacs
+matplotlib
+scikit-learn
+# torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
